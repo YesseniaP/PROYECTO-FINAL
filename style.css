@@ -1,0 +1,493 @@
+    body{
+    margin: 0;
+    padding: 0;
+    }
+    header{
+    width: 100%;
+    background: white;
+    margin: 0 auto;
+     }
+    header .container{
+    width: 100%;
+    }
+    header .container .cont-log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    nav ul{
+        padding-left: 0;
+    }
+    nav ul a{
+    position: relative;
+    top: 25px;
+    margin: 0;
+    color: rgb(53, 52, 52);
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    text-decoration: none;
+    }
+    nav ul a:nth-child(1){
+    border-radius: 5px;
+    background-color: rgb(247, 165, 222);
+    }
+   .container .cont-log img{
+    width: 12%;
+    height: 20vh;
+    position: relative;
+    top: 10px;
+    left: -30px;
+    }
+    main .container{
+    width: 100%;
+    height:80vh; 
+    background-image: url(http://relaxnailspalasvegas.com/uploads/relaxnoz3mkkj/logo/2017/10/12/1_1507791708_39_4.jpg);
+    }
+    main .container .row .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    padding-top: 170px;
+    margin-left: 200px;
+    margin-top: 20px;
+    }
+    main .container .row .text h4{
+    width: 45%;
+    padding: 5px 5px;
+    margin: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 2.3rem;
+    color:rgb(245, 149, 221);
+    background-color:rgba(240, 240, 240, 0.979); ;
+    }
+    main .container .row .text h2{
+    width: 17%;
+    padding: 5px 5px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 2rem;
+    color:rgb(245, 149, 221);
+    background-color:rgba(241, 233, 233, 0.979); ;
+    }
+
+    main .container .row button{
+    width: 20%;
+    padding: 10px;
+    border: none;
+    background:rgb(245, 149, 221);
+    color: white;
+    font-size: 1rem;
+    margin-left: 25px;
+    }
+    main .container .row button:hover{
+    color:rgb(245, 126, 215);
+    background-color:rgba(241, 233, 233, 0.979);
+    }
+    .container-2{
+    width: 100%;
+    margin: 0;
+    }
+    .container-2 h5{
+    width: 100%;
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:rgb(24, 23, 24);
+    }
+    .container-2 h4{
+    width: 100%;
+    font-weight: 100;
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color:rgb(41, 39, 40);
+    }
+    .container-2 .col200{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    }
+    .container-2 .col200 img{
+    width: 100%;
+    border-radius: 200px;
+    }
+    .container-2 .col200 .col-20:nth-child(1){
+    width: 30%;
+    padding: 25px;
+    }
+    .container-2 .col200 .col-20:nth-child(2){
+    width: 30%;
+    padding: 25px;
+    }
+    .container-2 .col200 .col-20:nth-child(3){
+    width: 30%;
+    padding: 25px;
+    }
+    .container-3{
+     width: 100%;
+    margin: 0;
+    }
+    .container-3 .col300 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .container-3 .col300 .col-30{
+    width: 90%; 
+    height: 60vh; 
+    }
+    .container-3 .col300 .col-30 img{
+    width: 100%;
+    }
+    .container-4{
+    width: 100%;
+    }
+    .container-4 h4{
+     width: 100%;
+    margin-top: 40% ;
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:rgb(245, 149, 221);
+    }
+    .container-4 .col400{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .container-4 .col400 img{
+    width: 100%;
+    border-radius: 200px;
+    }
+    .container-4 .col400 .col-40:nth-child(1){
+    width: 30%;
+    padding-left: 25px;
+    }
+    .container-4 .col400 .col-40:nth-child(2){
+    width: 30%;
+    padding-left: 25px;
+    }
+    .container-4 .col400 .col-40:nth-child(3){
+    width: 30%;
+    padding-left: 25px;
+    }
+    .container-5{
+    width: 100%;
+    background:url(https://thumbs.dreamstime.com/b/esmalte-de-u%C3%B1as-rosado-derramado-en-el-fondo-blanco-130143720.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .container-5 h5{
+    width: 100%;
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:rgb(24, 23, 24);
+    }
+    .container-5 h4{
+    width: 100%;
+    font-weight: 100;
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color:rgb(58, 57, 57);
+    }
+    .container-5 .col500{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .container-5 .col500 .col-50:nth-child(1){
+    width: 40%;
+    padding: 45px;
+    }
+    .container-5 .col500 .col-50:nth-child(2){
+    width: 40%;
+    } 
+    .container-5 button{
+    background: rgb(245, 149, 221);
+    color: white;
+    width: 23%;
+    padding: 5px;
+    border-radius: 15px;
+    border: none;
+    }
+    .container-6{
+    width: 100%;
+    }
+    .container-6 .col600 {
+    margin-top: 20%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .container-6 .col600 .col-60{
+    width: 90%; 
+    height: 60vh; 
+    }
+    .container-6 .col600 .col-60 img{
+    width: 100%;
+     }
+    .container-7{
+    width: 75%;
+    margin-top: 55%;
+    margin-left: 15%;
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    }
+    .container-7 .col700{
+    width: 100%;
+    }
+    .container-7 h2{
+    font-weight: 60;
+    text-align: center;
+    color: rgb(24, 26, 24);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .container-7 h4{
+    font-weight: 60;
+    text-align: center;
+    color:rgb(26, 27, 26) ;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .container-7 input{
+    width: 35%;
+    margin-left: 15px;
+    padding:10px;
+    }
+    .container-7 button{
+    background: rgb(245, 149, 221);
+    color: white;
+    width: 18%;
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+    }
+    .container-7 button:hover{
+    background:white;
+    color: rgb(245, 149, 221);;
+    }
+    .containerfooter{
+     width: 100%;
+    height: 68vh;
+    margin-top: 60px;
+    color: black;
+    background: rgb(247, 169, 227);
+    }
+    .containerfooter .foot2{
+    width: 70%;
+    margin: 0;
+    margin-left: 250px;
+    display: flex;
+    justify-content: center;
+    }
+    .foot2 .col-30{
+    width: 20%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+        
+    }
+    .foot2 .col-30 ul{
+        list-style: none;
+    }
+    .foot2 .col-31{
+    width: 25%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    margin-left: 40px;
+    }
+    .foot2 .col-31 ul{
+    list-style: none;
+    }
+    .foot2 .col-32{
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 35px;
+    }
+    .containerfooter img{
+    width: 15%;
+    margin-top: 20px;
+    margin-left: 45%;
+    }
+    .foot2 button{
+    background: rgb(159, 120, 196);
+    color: rgb(250, 244, 244);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 50%;
+    margin-top: 5px;
+    padding: 10px;
+    border: none;
+    }
+    .foot2 button:hover{
+    background: rgb(120,7, 226);
+    color: rgb(246, 238, 253);
+    }
+    .containerfooter .icono {
+    margin-left: 590px;
+    }
+    .icon{
+    width: 30px;
+    margin: 8px;
+    margin-top: 115px;
+    border-radius: 10px;
+    }
+    .containerfooter span{
+    margin-left: 450px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+     
+    @media (max-width: 780px){
+        
+            nav ul a{
+            padding: 10px;
+            }
+           .container .cont-log img{
+            position: relative;
+            left: 10px;
+            }
+            .container-7 button{
+            width: 60%;
+            margin-top: 10px;
+            margin-left: 75px;
+            }
+            .containerfooter .foot2{
+            width: 70%;
+            margin-left: 100px;
+            display: flex;
+            justify-content: center;
+            }
+            span{
+            position: relative;
+            top: -20px;
+            background:rgb(247, 169, 227); 
+            margin-left: 150px;
+            }
+    }
+    @media (max-width: 480px){
+           nav ul a{  
+            width: 100%;
+            padding: 2px;
+            }
+            header .container .cont-log{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            }
+            main .container .row .text {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-left: 0px;
+            }
+            main .container .row .text h4{
+            width: 55%;
+            }
+            main .container .row button{
+            width: 30%;
+            padding: 10px;
+            }
+            .container-2 .col200{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            }
+            .container-2 .col200 .col-20:nth-child(1){
+            width: 50%;
+            }
+            .container-2 .col200 .col-20:nth-child(2){
+            width: 50%;
+            }
+            .container-2 .col200 .col-20:nth-child(3){
+            width: 50%;
+            }
+            .container-4 h4{
+               margin-top: 15% ;
+            }
+            .container-4 .col400{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                }
+                .container-4 .col400 .col-40:nth-child(1){
+                width: 50%;
+                }
+                .container-4 .col400 .col-40:nth-child(2){
+                width: 50%;
+                }
+                .container-4 .col400 .col-40:nth-child(3){
+                width: 50%;
+                }
+                .container-5 .col500{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+           align-items: center;
+           }
+           .container-5 .col500 .col-50:nth-child(1){
+           width: 50%;
+           }
+           .container-5 .col500 .col-50:nth-child(2){
+           width: 50%;
+           } 
+           .container-5 button{
+           width: 33%;
+           padding: 5px;
+            }
+            .container-6 .col600 {
+                margin-top: 50%;
+                height: 10vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                }
+                .container-6 .col600 .col-60{
+                width: 90%; 
+                height: 60vh; 
+                }
+                .container-6 .col600 .col-60 img{
+           width: 100%;
+           }
+           .container-7 button{
+            width: 60%;
+            margin-top: 10px;
+            margin-left: 75px;
+            }
+           .containerfooter .foot2{
+           width: 70%;
+           margin-left: 50px;
+           display: flex;
+           justify-content: center;
+           }
+           .foot2 button{
+            width: 70%;
+            margin-top: 5px;
+            padding: 10px;
+            border: none;
+           }
+           span{
+           width: 100%;
+           position: relative;
+           top: -30px;
+           background:rgb(247, 169, 227); 
+           margin-left: 150px;
+           }
+        
+}
+
+
+    
